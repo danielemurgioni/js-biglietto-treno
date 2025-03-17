@@ -27,4 +27,4 @@ else{
     ticketDiscount = ticketCost;
 }
 
-console.log(ticketDiscount);
+console.log((ticketDiscount).toFixed(2));
